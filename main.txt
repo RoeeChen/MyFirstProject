@@ -1,1 +1,4 @@
-this is main
+public static void main()
+{
+	Console.WriteLine("this is main!");
+}
